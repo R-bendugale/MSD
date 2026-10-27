@@ -1,0 +1,2 @@
+Hello, this is Node.js Read Stream and Write Stream.
+This file contains some sample data.
